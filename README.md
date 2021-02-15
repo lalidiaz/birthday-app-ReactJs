@@ -1,4 +1,4 @@
-# birthday-app
+# birthday-app 🎂
 
 This is a small project part of a practice I'm doing to refresh React Js concept. It's a birthday app. 
 Concept: UseState().
