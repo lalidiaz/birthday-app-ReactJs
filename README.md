@@ -1,7 +1,7 @@
 # birthday-app 🎂
 
 This is the 1st project to refresh ReactJs concepts. I am writing an article about ReactJs main concepts so I can share it with the community once it's finished.
-It's a birthday app which reminds you of today's birthdays and you can clear the list once you checked. 
+It's a birthday app which reminds you of today's birthdays. You can clear the list once you checked. 
 Topic: UseState().
 https://birthday-app-eight.vercel.app/
 
